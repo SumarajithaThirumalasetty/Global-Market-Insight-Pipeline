@@ -3,3 +3,4 @@ requests
 pyarrow
 boto3
 numpy
+apache-airflow
